@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>addr</name>
+        <rest_message_function display_value="Default GET">79e800ac2fb760106aa3bac62799b648</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-25 03:15:21</sys_created_on>
+        <sys_id>c19988ac2fb760106aa3bac62799b6e0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>addr</sys_name>
+        <sys_package display_value="Loaner Request" source="x_609049_loaner_re">cc496d192fe320106aa3bac62799b698</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">cc496d192fe320106aa3bac62799b698</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_c19988ac2fb760106aa3bac62799b6e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-25 05:50:19</sys_updated_on>
+        <type>xml</type>
+        <value>Santa Clara,CA</value>
+    </sys_rest_message_fn_parameters>
+</record_update>

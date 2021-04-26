@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>Used to trigger an email to remind a user to pick up their loaner them.</description>
+        <event_name>x_609049_loaner_re.pickUp</event_name>
+        <fired_by>Schduled Script Execution:Loaner Item Pick Up</fired_by>
+        <queue/>
+        <suffix>pickUp</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-20 08:40:33</sys_created_on>
+        <sys_id>71d32b3e2fe320106aa3bac62799b666</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_609049_loaner_re.pickUp</sys_name>
+        <sys_package display_value="Loaner Request" source="x_609049_loaner_re">cc496d192fe320106aa3bac62799b698</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">cc496d192fe320106aa3bac62799b698</sys_scope>
+        <sys_update_name>sysevent_register_71d32b3e2fe320106aa3bac62799b666</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-20 08:40:33</sys_updated_on>
+        <table>x_609049_loaner_re_loaner_request</table>
+    </sysevent_register>
+</record_update>
